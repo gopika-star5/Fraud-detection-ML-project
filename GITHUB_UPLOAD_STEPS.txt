@@ -1,0 +1,12 @@
+1. Create an empty PUBLIC GitHub repository named fraud-detection-ml-system.
+2. Open this project folder in VS Code.
+3. Terminal:
+   git init
+   git branch -M main
+   git add .
+   git commit -m "Initial fraud detection ML project"
+4. Connect:
+   git remote add origin https://github.com/YOUR_USERNAME/fraud-detection-ml-system.git
+5. Push:
+   git push -u origin main
+6. Refresh GitHub and copy the repository URL for your internship form.

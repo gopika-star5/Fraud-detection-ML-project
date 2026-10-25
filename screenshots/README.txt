@@ -1,0 +1,1 @@
+These PNG files are real output screenshots generated from the included synthetic demonstration dataset.

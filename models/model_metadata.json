@@ -1,0 +1,25 @@
+{
+  "best_model": "Random Forest",
+  "features": [
+    "Amount",
+    "Hour",
+    "Velocity_1h",
+    "Distance_km",
+    "Device_Risk",
+    "Merchant_Risk",
+    "Amount_Deviation",
+    "Failed_Attempts",
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6",
+    "V7",
+    "V8",
+    "V9",
+    "V10",
+    "Amount_Log",
+    "Night_Transaction"
+  ]
+}
